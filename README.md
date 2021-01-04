@@ -20,6 +20,7 @@ https://www.techwasti.com/how-to-do-call-by-value-vs-call-by-reference-in-go-lan
 https://www.techwasti.com/how-to-use-functions-in-go/<br/>
 https://www.techwasti.com/how-to-pass-a-function-as-an-argument-in-go/<br/>
 https://www.techwasti.com/how-to-use-struct-in-go-lang/<br/>
+https://www.techwasti.com/what-are-filter-closure-and-custom-functions-in-go/<br/>
 
 
 
